@@ -1,0 +1,12 @@
+[default]
+name=Default
+runtime=podman:a43f4d602bc8a30461835849f32388b05397c6dd723532de1c78ae2292b40721
+toolchain=default
+config-opts=
+run-opts=
+prefix=/home/diegoivan/.var/app/org.gnome.Builder/cache/gnome-builder/install/polyparser/podman-a43f4d602bc8a30461835849f32388b05397c6dd723532de1c78ae2292b40721
+app-id=
+postbuild=
+prebuild=
+run-command=
+default=true
